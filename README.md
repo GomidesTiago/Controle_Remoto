@@ -15,4 +15,3 @@ o projeto simula o funcionamento de um controle remoto com as funções
 ## Uso pra estudo
 O intuito do projeto foi estudar encapsulamento, interface, implements. 
 
-# Controle_Remoto
